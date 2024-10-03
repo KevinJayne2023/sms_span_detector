@@ -1,6 +1,6 @@
-SMS Spam Detector with Gradio and Scikit-Learn
+#SMS Spam Detector with Gradio and Scikit-Learn
 
-Project Overview
+#Project Overview
 This project refactors an SMS text classification solution into a function that builds a linear Support Vector Classification (SVC) model. The model is trained to classify SMS text messages as either spam or ham (not spam). The project also integrates a Gradio web application, allowing users to input text messages and test the classification model's performance in real-time.
 
 Project Features
